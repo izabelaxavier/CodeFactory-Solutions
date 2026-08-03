@@ -22,10 +22,11 @@ Demonstrar na prática a utilização de ferramentas de versionamento (Git/GitHu
 ├── docs/               # Documentação adicional
 ├── README.md           # Instruções principais
 └── LICENSE             # Licença do projeto
+```
+
 ⚙️ Instruções de Instalação e Execução
 Clone o repositório: git clone https://github.com/izabelaxavier/CodeFactory-Solutions.git
 Acesse a pasta do projeto: cd CodeFactory-Solutions
-```
 
 Execução via Docker: (As instruções de execução do Docker serão atualizadas assim que o Dockerfile for implementado ).
 📄 Licença
